@@ -22,7 +22,7 @@ Our mini project focus on medical insurance from the United States. We performed
     - EDA and Visualization  
     - Machine Learning: Random Forest & Catboost
 
-###Description
+### Description
 This repository contains the ipynb file of our project, slides, video presentation and the references for any claims and methods we use in our SC1015 project. 
 
 This README contains descriptions of the various sections of our jupyternotebook. If you want to see a full detailed rundown of our process, do refer to the jupyternotebook itself, which contains detailed descriptions and comments on the steps and our thought processes. 
