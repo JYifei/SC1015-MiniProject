@@ -32,7 +32,7 @@ This README contains descriptions of the various sections of our jupyternotebook
 ### Problem Definition
 There are a lot of insurance companies in America which results in a price sensitive and competetive market. A slight difference in Premium Prices can lose the companies a large number of customers. Our goal is to investigate and find out which health factors are the most important when it comes to deciding on a premium price. This can help companies make better judements on which health factors warrents an increase in premium prices, and which factors they can ignore, widening their customer base and improving profits. This can also help customers what are the determining factors that affect their premium prices, allowing them to make a more informed decision when choosing their insurance plans.
 
-### Detalis
+### Details
 #### Data Cleaning
 In this section, we worked on cleaning and preparing our data set for analysis in the next part. Since our data does not contain NULL values, there is no need for us to utilise imputation techniques to fill up the NULL values. Our categorical values are also one hot encoded, which removes the need to do so ourselves. 
 
