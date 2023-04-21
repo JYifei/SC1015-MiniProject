@@ -78,4 +78,9 @@ Over here, we compared the importance of the different health factors and explor
   2. Learn about gradient boosting, which is the basis of Catboost.
   3. Learnt the method on feature engineering, creating new data based on the existing data.
 
-
+### References:
+  1. https://research.aimultiple.com/insurance-pricing/
+  2. https://catboost.ai/en/docs/concepts/fstr
+  3. https://catboost.ai/en/docs/concepts/tutorials
+  4. https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html
+  5. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
