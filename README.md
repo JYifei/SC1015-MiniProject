@@ -2,16 +2,19 @@
 Our mini project focus on medical insurance from the United States. We performed Random Forest and Catboost on the [dataset](https://www.kaggle.com/datasets/tejashvi14/medical-insurance-premium-prediction) by TEJASHVI on kaggle.
 
 
+
 ### Members
 - Eugene Ian Teo-Aldridge
 - Jiang Yifei
 - Huang Shu yang
 
 
+
 ### Problem Definition
 - What are the factors that effects the premium pricing most?  
 - How can a insurance company develop an adaptive premium pricing model?  
 - How can the customers choose the best value for money medical insurance plans?  
+
 
 
 ### Files
@@ -23,13 +26,14 @@ Our mini project focus on medical insurance from the United States. We performed
     - Machine Learning: Random Forest & Catboost
 
 
+
 ### Detalis
 #### Data Cleaning
   1. No missing values in the data  
   2. Used box plot for visualizing  
   3. Outlier removal: removed the rows that contain outliers in numeric data. 2% of the whole dataset was removed.  
   
-  
+
 #### Exporatory Data Analysis
   1. Used cross-vairant dot plot for guessing the correlation between the colomns.
   2. Correlation matrix helped us to observe the strength of the relationship.
@@ -42,10 +46,12 @@ Our mini project focus on medical insurance from the United States. We performed
    The results are similar and Random forest is slightly better than Catboost.
    
    
+   
 ### Conclusions & Recommodation
   1.  Customers can have a better understanding of what influences the premium price -- the customer’s age, weight and any history of transplants or chronic diseases will result in a higher premium price.
   2. Insurance companies can potentially experiment dropping some of the factors to make their insurance sale more attractive.
   3. The customers can use the model to predict whether the price is worth or not.
+ 
  
  
 ### Reflections
