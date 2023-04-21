@@ -25,16 +25,16 @@ Our mini project focus on medical insurance from the United States. We performed
 
 ### Detalis
 #### Data Cleaning
-   a. no missing values in the data
-   b. Used box plot for visualizing
-   c. Outlier removal: removed the rows that contain outliers in numeric data. 2% of the whole dataset was removed.
+  1. No missing values in the data  
+  2. Used box plot for visualizing  
+  3. Outlier removal: removed the rows that contain outliers in numeric data. 2% of the whole dataset was removed.  
   
   
 #### Exporatory Data Analysis
-   a. Used cross-vairant dot plot for guessing the correlation between the colomns.
-   b. Correlation matrix helped us to observe the strength of the relationship.
-   c. Define new feature 'BMI' with weight and height, and expressed it in both numeric data and categorical data.
-   d. Observe the correlation between categorical data and prices by using boxplots.
+  1. Used cross-vairant dot plot for guessing the correlation between the colomns.
+  2. Correlation matrix helped us to observe the strength of the relationship.
+  3. Define new feature 'BMI' with weight and height, and expressed it in both numeric data and categorical data. 
+  4. Observe the correlation between categorical data and prices by using boxplots.  
 
 
 #### Machine Learning
