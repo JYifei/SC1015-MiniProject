@@ -70,7 +70,12 @@ Over here, we compared the importance of the different health factors and explor
   2. Insurance companies can potentially experiment dropping some of the factors to make their insurance sale more attractive to those with such ailments.
   3. Insurance companies can better understand which health factors are truly important, allowing for more informed pricing
 
- 
+### Contributions 
+YiFei has done most of the administrative work such as the video editing, slides and script main points. He also contributed to the planning of the coding for EDA and Machine learning as well as fixed some bugs. 
+
+Shu Yang has done the research for machine learning and implemented 2 machine learning models. Additionally he also contributed to the planning of the coding for Machine learning as well as fixed some bugs. Additionally he is also the one to come up with the project idea.
+
+Eugene has done the research for data cleaning, data preparation techniques as well as EDA. He has also implemented the codes for the preparation and EDA stage as well as provide insights on the EDA. Additionally he also contributed to the planning of the coding for EDA as well as fixed some bugs. 
  
  
 ### Reflections
